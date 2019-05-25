@@ -1,0 +1,5968 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 98,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adMobAppId": "",
+    "folderProject": false,
+    "linuxExecutableFilename": "",
+    "macExecutableFilename": "",
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectFile": "C:\\Users\\natha\\Desktop\\game\\Med Milenium\\game\\game.json",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "winExecutableFilename": "",
+    "winExecutableIconFile": "",
+    "name": "Project",
+    "author": "",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 10,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": true
+    },
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/ForlornTemple_8_MovingWall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\ForlornTemple_8_MovingWall.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/ForlornTemple_8_MovingOneWay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\ForlornTemple_8_MovingOneWay.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\idle_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\idle_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\run_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\run_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\run_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\run_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "../audios/tema.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\audios\\tema.ogg",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/cenario 3 colorido/sprite29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\cenario 3 colorido\\sprite29.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/craftpix-516661-free-cartoon-forest-game-backgrounds/PNG/Cartoon_Forest_BG_01/Cartoon_Forest_BG_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\craftpix-516661-free-cartoon-forest-game-backgrounds\\PNG\\Cartoon_Forest_BG_01\\Cartoon_Forest_BG_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/Bonus_4_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\Bonus_4_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/cenario 3 colorido/sprite22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\cenario 3 colorido\\sprite22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/cenario 3 colorido/sprite3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\cenario 3 colorido\\sprite3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/cenario 3 colorido/sprite15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\cenario 3 colorido\\sprite15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/Bonus_icon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\Bonus_icon.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/atack1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\atack1_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/atack1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\atack1_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/atack1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\atack1_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/atack1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\atack1_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/atack1_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\atack1_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "../audios/coin_efeito.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\audios\\coin_efeito.wav",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\jump.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/player/falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\player\\falling.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-andando_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-andando_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-andando_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-andando_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-andando_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-andando_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite_parado1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite_parado1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite_parado2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite_parado2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite_parado3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite_parado3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-primeiro-ataque_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-primeiro-ataque_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-primeiro-ataque_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-primeiro-ataque_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-segundo-ataque_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-segundo-ataque_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-segundo-ataque_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-apanhando-e-escondendo_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-apanhando-e-escondendo_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo URSO/sprite-apanhando-e-escondendo_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo URSO\\sprite-apanhando-e-escondendo_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-parado_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-parado_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-parado_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-parado_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-parado_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-parado_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-movendo_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-movendo_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-movendo_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-movendo_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-movendo_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-movendo_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-movendo_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-movendo_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-movendo_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-movendo_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-movendo_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-movendo_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-ataque-chute_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-ataque-chute_8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo coelho/sprite-se-pah-morreu.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo coelho\\sprite-se-pah-morreu.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/walking_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\walking_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/walking_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\walking_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/walking_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\walking_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/walking_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\walking_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\idle_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\idle_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack_4_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack_4_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack_4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/manobras_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\manobras_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/manobras_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\manobras_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/manobras_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\manobras_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/manobras_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\manobras_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack3_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack3_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack3_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack3_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack3_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack3_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack3_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack3_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack3_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack3_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo cobra/atack3_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo cobra\\atack3_6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/modificadores de direção inimigos- icones tela/mod_dir.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_dir.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/modificadores de direção inimigos- icones tela/mod_esq.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_esq.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/PNG-moedas-icon/Pads/Pad_1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Pads\\Pad_1_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/walking_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\walking_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/walking_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\walking_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/walking_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\walking_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/walking_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\walking_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/walking_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\walking_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/ilde_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\ilde_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/ilde_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\ilde_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/ilde_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\ilde_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/PNG-moedas-icon2/Pads/Pad_02_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\PNG-moedas-icon2\\Pads\\Pad_02_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/atack1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\atack1_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/atack1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\atack1_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/atack1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\atack1_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/atack1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\atack1_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/Inimigo lobo/atack1_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\Inimigo lobo\\atack1_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo rato/sprite-movendo_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo rato\\sprite-movendo_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo rato/sprite-movendo_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo rato\\sprite-movendo_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo rato/sprite-movendo_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo rato\\sprite-movendo_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo rato/sprite-movendo_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo rato\\sprite-movendo_4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo rato/sprite-movendo_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo rato\\sprite-movendo_5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/inimigo rato/sprite-movendo_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\inimigo rato\\sprite-movendo_6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/ForlornTemple_16_MovingOneWay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\ForlornTemple_16_MovingOneWay.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "boss-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "boss-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "boss-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "boss-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Plataforma/NewPlataforma-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Plataforma\\NewPlataforma-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/PNG-moedas-icon/Bonus/Bonus_2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Bonus\\Bonus_2_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "portal-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "portal-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "../audios/enemy.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\audios\\enemy.wav",
+        "userAdded": true
+      },
+      {
+        "file": "../audios/Jump20.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\audios\\Jump20.wav",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/PNG-background/Cartoon_Forest_BG_01/Cartoon_Forest_BG_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\PNG-background\\Cartoon_Forest_BG_01\\Cartoon_Forest_BG_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/cenario 3 colorido/sprite27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\cenario 3 colorido\\sprite27.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/PNG-moedas-icon/Bonus/Bonus_4_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Bonus\\Bonus_4_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../sprites/objetos para cenario/PNG-background/Cartoon_Forest_BG_02/Cartoon_Forest_BG_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\sprites\\objetos para cenario\\PNG-background\\Cartoon_Forest_BG_02\\Cartoon_Forest_BG_02.png",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "cont_icon_tela",
+      "value": "1"
+    }
+  ],
+  "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Game",
+      "name": "Game",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.474
+      },
+      "objectsGroups": [
+        {
+          "name": "Enemy",
+          "objects": [
+            {
+              "name": "urso"
+            },
+            {
+              "name": "lobo"
+            },
+            {
+              "name": "cobra"
+            },
+            {
+              "name": "coelho"
+            }
+          ]
+        },
+        {
+          "name": "Player",
+          "objects": [
+            {
+              "name": "player"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 25,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 2246,
+          "x": -752,
+          "y": 669,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 281,
+          "y": 519,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 217,
+          "x": 533,
+          "y": 383,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1084,
+          "layer": "BackGround",
+          "locked": false,
+          "name": "backGround",
+          "width": 3371,
+          "x": -1105,
+          "y": -365,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 475,
+          "x": -211,
+          "y": 577,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 387,
+          "y": 492,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 497,
+          "y": 339,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 689,
+          "x": 536,
+          "y": 520,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 255,
+          "x": 226,
+          "y": 368,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 391,
+          "x": -223,
+          "y": 233,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 255,
+          "x": 315,
+          "y": 145,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 569,
+          "x": 817,
+          "y": 367,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 109,
+          "x": 320,
+          "y": 4,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 362,
+          "x": -154,
+          "y": 477,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 29,
+          "y": 400,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 623,
+          "y": 161,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 739,
+          "y": 446,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 259,
+          "y": 237,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 584,
+          "y": 309,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 24,
+          "layer": "Gui",
+          "locked": false,
+          "name": "cont",
+          "width": 38,
+          "x": 55,
+          "y": 12,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 27,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 26,
+          "x": 96,
+          "y": 625,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 26,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 28,
+          "x": 909,
+          "y": 622,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 515,
+          "x": 749,
+          "y": 164,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 0,
+          "x": 770,
+          "y": 498,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 0,
+          "x": 1159,
+          "y": 494,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 0,
+          "x": 860,
+          "y": 341,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 0,
+          "x": 1333,
+          "y": 347,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 844,
+          "y": 625,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 464,
+          "y": 631,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 887,
+          "y": 128,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 342,
+          "y": 87,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 917,
+          "y": 490,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 835,
+          "y": 491,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 327,
+          "y": 335,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 242,
+          "y": 630,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 1119,
+          "y": 341,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "Game",
+          "locked": false,
+          "name": "coin",
+          "width": 20,
+          "x": 897,
+          "y": 342,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "player",
+          "width": 0,
+          "x": 66,
+          "y": 184,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 51,
+          "layer": "Game",
+          "locked": false,
+          "name": "lobo",
+          "width": 72,
+          "x": 725,
+          "y": 615,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "Game",
+          "locked": false,
+          "name": "urso",
+          "width": 86,
+          "x": 1022,
+          "y": 335,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 487,
+          "y": 467,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 108,
+          "x": 1178,
+          "y": 231,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 57,
+          "layer": "Game",
+          "locked": false,
+          "name": "rocha",
+          "width": 75,
+          "x": 1144,
+          "y": 470,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "cobra",
+          "width": 0,
+          "x": 1020,
+          "y": 482,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "coelho",
+          "width": 0,
+          "x": 1152,
+          "y": 102,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 39,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 45,
+          "x": 757,
+          "y": 122,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 43,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 47,
+          "x": 1220,
+          "y": 118,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "portal",
+          "width": 0,
+          "x": 1516,
+          "y": 566,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": -321,
+          "y": 607,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 195,
+          "y": 159,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 123,
+          "y": 347,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 389,
+          "y": 260,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 0,
+          "x": 317,
+          "y": 114,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 0,
+          "x": 544,
+          "y": 118,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "Game",
+          "locked": false,
+          "name": "urso",
+          "width": 86,
+          "x": 460,
+          "y": 116,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 109,
+          "x": 248,
+          "y": 231,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 51,
+          "layer": "Game",
+          "locked": false,
+          "name": "lobo",
+          "width": 72,
+          "x": 533,
+          "y": 617,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 31,
+          "layer": "Gui",
+          "locked": false,
+          "name": "coin_gui",
+          "width": 33,
+          "x": 13,
+          "y": 9,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "height": 32,
+          "name": "plataforma",
+          "texture": "..\\sprites\\objetos para cenario\\ForlornTemple_8_MovingWall.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "plataformaFina",
+          "texture": "..\\sprites\\objetos para cenario\\ForlornTemple_8_MovingOneWay.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "name": "player",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "pwDoubleJump",
+              "value": "1"
+            },
+            {
+              "name": "jumpCount",
+              "value": "0"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atack1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\atack1_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\atack1_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\atack1_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "falling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\falling.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\jump.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "arvore",
+          "texture": "..\\sprites\\cenario 3 colorido\\sprite29.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "backGround",
+          "texture": "..\\sprites\\objetos para cenario\\PNG-background\\Cartoon_Forest_BG_01\\Cartoon_Forest_BG_01.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "arbusto",
+          "texture": "..\\sprites\\cenario 3 colorido\\sprite22.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "rocha",
+          "texture": "..\\sprites\\cenario 3 colorido\\sprite3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "cipo",
+          "texture": "..\\sprites\\cenario 3 colorido\\sprite15.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "cont",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [
+            {
+              "name": "cont_icon",
+              "value": "0"
+            }
+          ],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "characterSize": 25,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "urso",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.11,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-andando_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-andando_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-andando_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.11,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite_parado1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite_parado2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite_parado3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atack1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.13,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atack2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "dano",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-apanhando-e-escondendo_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-apanhando-e-escondendo_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mod_esq",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_dir.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mod_dir",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_esq.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "coin",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\Bonus_4_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "lobo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\Inimigo lobo\\walking_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\Inimigo lobo\\walking_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\Inimigo lobo\\walking_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\Inimigo lobo\\walking_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\Inimigo lobo\\walking_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "cobra",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\inimigo cobra\\walking_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\inimigo cobra\\walking_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\inimigo cobra\\walking_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "coelho",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "portal",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "portal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "portal-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 41,
+                            "y": 102
+                          },
+                          {
+                            "x": 112,
+                            "y": 30
+                          },
+                          {
+                            "x": 210,
+                            "y": 151
+                          },
+                          {
+                            "x": 187,
+                            "y": 182
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "coin_gui",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Bonus\\Bonus_4_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "CAMERA/audio",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "player",
+                "no",
+                "\"Game\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "..\\audios\\tema.ogg",
+                "yes",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "item",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "coin",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "coin",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "..\\audios\\coin_efeito.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "cont_icon",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "cont",
+                "=",
+                "ToString(GlobalVariable(cont_icon))"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "portal",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Boss\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "LINKS",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "inimigo"
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "player"
+        }
+      ],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "name": "BackGround",
+          "visibility": false,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "Game",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "Gui",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    },
+    {
+      "b": 3,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Boss",
+      "name": "Boss",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 36,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 65,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.579
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 364,
+          "layer": "",
+          "locked": false,
+          "name": "teste",
+          "width": 580,
+          "x": 109,
+          "y": 128,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "text",
+          "width": 0,
+          "x": 344,
+          "y": 243,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "joia",
+          "width": 0,
+          "x": 324,
+          "y": 293,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 438,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "width": 443,
+          "x": 786,
+          "y": -2,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 186,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject2",
+          "width": 200,
+          "x": 864,
+          "y": -102,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "teste",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "boss",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "boss-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "THE END",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 252,
+            "g": 252,
+            "r": 252
+          }
+        },
+        {
+          "name": "joia",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Bonus\\Bonus_2_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\cenario 3 colorido\\sprite27.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "fim",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "teste",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "joia",
+                "=",
+                "0.9"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "teste",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "joia",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisBouton"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "joia",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Quit"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Main",
+      "name": "Main",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.4102
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1120,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "width": 2132,
+          "x": 423.859,
+          "y": 785.423,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartButton",
+          "width": 0,
+          "x": 1150.86,
+          "y": 1577.42,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitButton",
+          "width": 0,
+          "x": 1717.86,
+          "y": 1579.42,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartText",
+          "width": 0,
+          "x": 1001.86,
+          "y": 1529.42,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitText",
+          "width": 0,
+          "x": 1619.86,
+          "y": 1530.42,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GameNameText",
+          "width": 0,
+          "x": 537.859,
+          "y": 1065.42,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1120,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "width": 2132,
+          "x": 391.596,
+          "y": 759.205,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartButton",
+          "width": 0,
+          "x": 1118.6,
+          "y": 1551.21,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitButton",
+          "width": 0,
+          "x": 1685.6,
+          "y": 1553.21,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartText",
+          "width": 0,
+          "x": 969.596,
+          "y": 1503.21,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitText",
+          "width": 0,
+          "x": 1587.6,
+          "y": 1504.21,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GameNameText",
+          "width": 0,
+          "x": 505.596,
+          "y": 1039.21,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1120,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "width": 2132,
+          "x": 391.596,
+          "y": 759.205,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartButton",
+          "width": 0,
+          "x": 1118.6,
+          "y": 1551.21,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitButton",
+          "width": 0,
+          "x": 1685.6,
+          "y": 1553.21,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartText",
+          "width": 0,
+          "x": 969.596,
+          "y": 1503.21,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitText",
+          "width": 0,
+          "x": 1587.6,
+          "y": 1504.21,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GameNameText",
+          "width": 0,
+          "x": 505.596,
+          "y": 1039.21,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1120,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "width": 2132,
+          "x": 391.596,
+          "y": 759.205,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartButton",
+          "width": 0,
+          "x": 1118.6,
+          "y": 1551.21,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitButton",
+          "width": 0,
+          "x": 1685.6,
+          "y": 1553.21,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "StartText",
+          "width": 0,
+          "x": 969.596,
+          "y": 1503.21,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ExitText",
+          "width": 0,
+          "x": 1587.6,
+          "y": 1504.21,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GameNameText",
+          "width": 0,
+          "x": 505.596,
+          "y": 1039.21,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 677,
+          "layer": "",
+          "locked": false,
+          "name": "BackGround",
+          "width": 1138,
+          "x": -135,
+          "y": -52,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "name": "BackGround",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\PNG-background\\Cartoon_Forest_BG_02\\Cartoon_Forest_BG_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": []
+        }
+      ],
+      "events": [],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "FirstScene",
+      "name": "FirstScene",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "PauseScene",
+      "name": "PauseScene",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "SecondScene",
+      "name": "SecondScene",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    }
+  ],
+  "externalEvents": [
+    {
+      "associatedLayout": "Game",
+      "lastChangeTimeStamp": 0,
+      "name": "inimigo",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "mod_esq"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "mod_dir"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "CONTROLES",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Enemy",
+                "mod_esq",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Enemy",
+                "direction",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Enemy",
+                "mod_dir",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Enemy",
+                "direction",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Enemy",
+                "direction",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Enemy",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Enemy",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Enemy",
+                "direction",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "Enemy",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Enemy",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Game",
+      "lastChangeTimeStamp": 0,
+      "name": "player",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Controles",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "player",
+                "\"jump\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsFalling"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "player",
+                "\"falling\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "player",
+                    "\"run\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "player",
+                    "\"idle\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "x"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "player",
+                "\"atack1\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Espelhamento",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "player",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "player",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Enemy",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsFalling"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Enemy",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SetCanJump"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "..\\audios\\enemy.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Enemy",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "player",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Boss\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "disabled": false,
+          "folded": true,
+          "name": "duplo pulo",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "player",
+                    "pwDoubleJump",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "PlatformBehavior::IsJumping"
+                          },
+                          "parameters": [
+                            "player",
+                            "PlatformerObject"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "PlatformBehavior::IsFalling"
+                          },
+                          "parameters": [
+                            "player",
+                            "PlatformerObject"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "player",
+                        "jumpCount",
+                        "<",
+                        "2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::Or"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Up"
+                              ],
+                              "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Space"
+                              ],
+                              "subInstructions": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": [],
+                          "subInstructions": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "PlatformBehavior::SetCanJump"
+                          },
+                          "parameters": [
+                            "player",
+                            "PlatformerObject"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "player",
+                            "jumpCount",
+                            "+",
+                            "1"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Verifica se o player está no chão para definir o valor da vareável jumpCount 0, para permitir para realizar o pulo duplo novamente",
+                  "comment2": ""
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "player",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "player",
+                        "jumpCount",
+                        "=",
+                        "0\n"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
