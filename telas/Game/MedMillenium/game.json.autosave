@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Users\\Allef\\GDevelop projects\\MedMillenium\\game.json",
+    "projectFile": "C:\\Users\\natha\\Desktop\\game\\Med Milenium\\telas\\Game\\MedMillenium\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -949,7 +949,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.352
+        "zoomFactor": 0.2172
       },
       "objectsGroups": [],
       "variables": [],
@@ -1005,11 +1005,26 @@
           "height": 0,
           "layer": "",
           "locked": false,
+          "name": "NextButtom",
+          "width": 0,
+          "x": 1490,
+          "y": 900,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
           "name": "NextText",
           "width": 0,
-          "x": 1319,
-          "y": 861,
-          "zOrder": 4,
+          "x": 1342,
+          "y": 853,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2093,7 +2108,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.328
+        "zoomFactor": 0.2676
       },
       "objectsGroups": [],
       "variables": [],
