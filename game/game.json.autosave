@@ -1512,6 +1512,7 @@
         "name": "..\\sprites\\anti_heroi\\dano_5.png",
         "smoothed": true,
         "userAdded": false
+<<<<<<< HEAD
       },
       {
         "alwaysLoaded": false,
@@ -1539,6 +1540,8 @@
         "name": "..\\sprites\\cenario 3 colorido\\sprite12.png",
         "smoothed": true,
         "userAdded": false
+=======
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
       }
     ],
     "resourceFolders": []
@@ -1548,7 +1551,11 @@
   "variables": [
     {
       "name": "cont_icon_tela",
+<<<<<<< HEAD
       "value": "0"
+=======
+      "value": "1"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
     }
   ],
   "layouts": [
@@ -5182,7 +5189,11 @@
         "gridWidth": 32,
         "snap": false,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.6688
+=======
+        "zoomFactor": 0.4288
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
       },
       "objectsGroups": [
         {
@@ -5416,8 +5427,13 @@
           "locked": false,
           "name": "plataformaFina",
           "width": 362,
+<<<<<<< HEAD
           "x": -891,
           "y": 400,
+=======
+          "x": -854,
+          "y": 403,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -5780,6 +5796,8 @@
           "y": 178,
           "zOrder": 23,
           "numberProperties": [],
+<<<<<<< HEAD
+=======
           "stringProperties": [],
           "initialVariables": []
         },
@@ -5823,6 +5841,166 @@
           "width": 59,
           "x": 487,
           "y": 467,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 108,
+          "x": 1178,
+          "y": 231,
+          "zOrder": 4,
+          "numberProperties": [],
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+<<<<<<< HEAD
+          "height": 51,
+          "layer": "Game",
+          "locked": false,
+          "name": "lobo",
+          "width": 72,
+          "x": 725,
+          "y": 615,
+          "zOrder": 24,
+=======
+          "height": 57,
+          "layer": "Game",
+          "locked": false,
+          "name": "rocha",
+          "width": 75,
+          "x": 1141,
+          "y": 468,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "cobra",
+          "width": 0,
+          "x": 1020,
+          "y": 482,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "coelho",
+          "width": 0,
+          "x": 1152,
+          "y": 102,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 39,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 45,
+          "x": 978,
+          "y": 618,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 43,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 47,
+          "x": 1407,
+          "y": 614,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 139,
+          "layer": "Game",
+          "locked": false,
+          "name": "portal",
+          "width": 89,
+          "x": 2098,
+          "y": 529,
+          "zOrder": 32,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "Game",
+          "locked": false,
+<<<<<<< HEAD
+          "name": "urso",
+          "width": 86,
+          "x": 1022,
+          "y": 335,
+          "zOrder": 26,
+=======
+          "name": "plataformaFina",
+          "width": 59,
+          "x": -321,
+          "y": 607,
+          "zOrder": 2,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+<<<<<<< HEAD
+          "x": 487,
+          "y": 467,
+=======
+          "x": 195,
+          "y": 159,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -5941,38 +6119,13 @@
           "locked": false,
           "name": "plataformaFina",
           "width": 59,
+<<<<<<< HEAD
           "x": -321,
           "y": 607,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 19,
-          "layer": "Game",
-          "locked": false,
-          "name": "plataformaFina",
-          "width": 59,
-          "x": 195,
-          "y": 159,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 19,
-          "layer": "Game",
-          "locked": false,
-          "name": "plataformaFina",
-          "width": 59,
+=======
           "x": 123,
           "y": 347,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -5986,8 +6139,13 @@
           "locked": false,
           "name": "plataformaFina",
           "width": 59,
+<<<<<<< HEAD
+          "x": 195,
+          "y": 159,
+=======
           "x": 389,
           "y": 260,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -6105,10 +6263,17 @@
           "layer": "Game",
           "locked": false,
           "name": "plataformaFina",
+<<<<<<< HEAD
+          "width": 59,
+          "x": 123,
+          "y": 347,
+          "zOrder": 2,
+=======
           "width": 66,
           "x": 1604,
           "y": 646,
           "zOrder": 37,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6116,6 +6281,16 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 59,
+          "x": 389,
+          "y": 260,
+          "zOrder": 2,
+=======
           "height": 17,
           "layer": "Game",
           "locked": false,
@@ -6169,12 +6344,24 @@
           "x": 1933,
           "y": 629,
           "zOrder": 41,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
+<<<<<<< HEAD
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 0,
+          "x": 317,
+          "y": 114,
+          "zOrder": 18,
+=======
           "customSize": true,
           "height": 23,
           "layer": "Game",
@@ -6199,12 +6386,24 @@
           "x": -223,
           "y": 233,
           "zOrder": 6,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
+<<<<<<< HEAD
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 0,
+          "x": 544,
+          "y": 118,
+          "zOrder": 16,
+=======
           "customSize": true,
           "height": 21,
           "layer": "Game",
@@ -6214,6 +6413,7 @@
           "x": -727,
           "y": 233,
           "zOrder": 6,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6221,14 +6421,22 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 21,
+          "height": 69,
           "layer": "Game",
           "locked": false,
+<<<<<<< HEAD
+          "name": "urso",
+          "width": 86,
+          "x": 460,
+          "y": 116,
+          "zOrder": 26,
+=======
           "name": "plataforma",
           "width": 391,
           "x": -457,
           "y": 397,
           "zOrder": 6,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6236,6 +6444,16 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 109,
+          "x": -639,
+          "y": 531,
+          "zOrder": 4,
+=======
           "height": 19,
           "layer": "Game",
           "locked": false,
@@ -6244,6 +6462,7 @@
           "x": -154,
           "y": 477,
           "zOrder": 2,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6251,6 +6470,328 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
+          "height": 51,
+          "layer": "Game",
+          "locked": false,
+          "name": "lobo",
+          "width": 72,
+          "x": 533,
+          "y": 617,
+          "zOrder": 24,
+=======
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 109,
+          "x": -727,
+          "y": 106,
+          "zOrder": 4,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 31,
+          "layer": "Gui",
+          "locked": false,
+          "name": "coin_gui",
+          "width": 33,
+          "x": 13,
+          "y": 9,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 182,
+          "layer": "Game",
+          "locked": false,
+<<<<<<< HEAD
+          "name": "Portal_porta",
+          "width": 148,
+          "x": 2072,
+          "y": 478,
+          "zOrder": 35,
+=======
+          "name": "cobra",
+          "width": 0,
+          "x": -510,
+          "y": 629,
+          "zOrder": 30,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 17,
+          "layer": "Game",
+          "locked": false,
+<<<<<<< HEAD
+          "name": "plataformaFina",
+          "width": 66,
+          "x": 1604,
+          "y": 646,
+          "zOrder": 37,
+=======
+          "name": "mod_dir",
+          "width": 0,
+          "x": -328,
+          "y": 644,
+          "zOrder": 16,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+<<<<<<< HEAD
+          "customSize": true,
+          "height": 17,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 66,
+          "x": 1762,
+          "y": 597,
+          "zOrder": 37,
+=======
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 0,
+          "x": 770,
+          "y": 498,
+          "zOrder": 18,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+<<<<<<< HEAD
+          "height": 20,
+          "layer": "Game",
+          "locked": false,
+          "name": "Portal_chao",
+          "width": 339,
+          "x": 1923,
+          "y": 655,
+          "zOrder": 38,
+=======
+          "height": 57,
+          "layer": "Game",
+          "locked": false,
+          "name": "rocha",
+          "width": 75,
+          "x": -748,
+          "y": 615,
+          "zOrder": 29,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+<<<<<<< HEAD
+          "height": 33,
+          "layer": "Gui",
+          "locked": false,
+          "name": "icon_life",
+          "width": 113,
+          "x": 113,
+          "y": 7,
+          "zOrder": 40,
+=======
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 217,
+          "x": 533,
+          "y": 383,
+          "zOrder": 4,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+<<<<<<< HEAD
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "Bonus_life",
+          "width": 0,
+          "x": 1933,
+          "y": 629,
+          "zOrder": 41,
+=======
+          "customSize": true,
+          "height": 146,
+          "layer": "Game",
+          "locked": false,
+          "name": "arvore",
+          "width": 109,
+          "x": 320,
+          "y": 4,
+          "zOrder": 4,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 57,
+          "layer": "Game",
+          "locked": false,
+<<<<<<< HEAD
+          "name": "coin_dica_1",
+          "width": 25,
+          "x": -119,
+          "y": 199,
+          "zOrder": 42,
+=======
+          "name": "rocha",
+          "width": 75,
+          "x": 90,
+          "y": 607,
+          "zOrder": 29,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+<<<<<<< HEAD
+          "customSize": true,
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 391,
+          "x": -223,
+          "y": 233,
+          "zOrder": 6,
+=======
+          "customSize": false,
+          "height": 0,
+          "layer": "Game",
+          "locked": false,
+          "name": "coelho",
+          "width": 0,
+          "x": 945,
+          "y": 99,
+          "zOrder": 31,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+<<<<<<< HEAD
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 391,
+          "x": -727,
+          "y": 233,
+          "zOrder": 6,
+=======
+          "height": 120,
+          "layer": "Game",
+          "locked": false,
+          "name": "cipo",
+          "width": 306,
+          "x": -651,
+          "y": 119,
+          "zOrder": 43,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+<<<<<<< HEAD
+          "height": 21,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataforma",
+          "width": 391,
+          "x": -457,
+          "y": 397,
+          "zOrder": 6,
+=======
+          "height": 43,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_dir",
+          "width": 47,
+          "x": 1220,
+          "y": 118,
+          "zOrder": 16,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+<<<<<<< HEAD
+          "height": 19,
+          "layer": "Game",
+          "locked": false,
+          "name": "plataformaFina",
+          "width": 362,
+          "x": -154,
+          "y": 477,
+          "zOrder": 2,
+=======
+          "height": 39,
+          "layer": "Game",
+          "locked": false,
+          "name": "mod_esq",
+          "width": 45,
+          "x": 757,
+          "y": 122,
+          "zOrder": 18,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+<<<<<<< HEAD
           "height": 146,
           "layer": "Game",
           "locked": false,
@@ -6274,12 +6815,23 @@
           "x": -510,
           "y": 629,
           "zOrder": 30,
+=======
+          "height": 161,
+          "layer": "Gui",
+          "locked": false,
+          "name": "CampoText",
+          "width": 614,
+          "x": -52,
+          "y": 476,
+          "zOrder": 46,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
+<<<<<<< HEAD
           "customSize": false,
           "height": 0,
           "layer": "Game",
@@ -6289,11 +6841,25 @@
           "x": -328,
           "y": 644,
           "zOrder": 16,
+=======
+          "customSize": true,
+          "height": 74,
+          "layer": "Gui",
+          "locked": false,
+          "name": "dicaText",
+          "width": 461,
+          "x": 11,
+          "y": 507,
+          "zOrder": 47,
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
+        }
+      ],
+      "objects": [
         {
+<<<<<<< HEAD
           "angle": 0,
           "customSize": false,
           "height": 0,
@@ -6322,14 +6888,346 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+          "height": 32,
+          "name": "plataforma",
+          "tags": "",
+          "texture": "..\\sprites\\objetos para cenario\\ForlornTemple_8_MovingWall.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
-          "angle": 0,
-          "customSize": true,
-          "height": 146,
-          "layer": "Game",
-          "locked": false,
+          "height": 32,
+          "name": "plataformaFina",
+          "tags": "",
+          "texture": "..\\sprites\\objetos para cenario\\ForlornTemple_8_MovingOneWay.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Jumpthru",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "name": "player",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "pwDoubleJump",
+              "value": "1"
+            },
+            {
+              "name": "jumpCount",
+              "value": "0"
+            },
+            {
+              "name": "Life",
+              "value": "3"
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atack1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\atack1_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\atack1_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\atack1_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "falling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\falling.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\jump.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hit",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\player\\hit_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+        },
+        {
+          "height": 32,
           "name": "arvore",
+<<<<<<< HEAD
           "width": 217,
           "x": 533,
           "y": 383,
@@ -6828,12 +7726,15 @@
         {
           "height": 32,
           "name": "arvore",
+=======
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "tags": "",
           "texture": "..\\sprites\\cenario 3 colorido\\sprite29.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
           "behaviors": []
+<<<<<<< HEAD
         },
         {
           "height": 32,
@@ -6850,6 +7751,14 @@
           "name": "arbusto",
           "tags": "",
           "texture": "..\\sprites\\cenario 3 colorido\\sprite22.png",
+=======
+        },
+        {
+          "height": 32,
+          "name": "backGround",
+          "tags": "",
+          "texture": "..\\sprites\\objetos para cenario\\PNG-background\\Cartoon_Forest_BG_01\\Cartoon_Forest_BG_01.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -6857,15 +7766,39 @@
         },
         {
           "height": 32,
+<<<<<<< HEAD
           "name": "rocha",
           "tags": "",
           "texture": "..\\sprites\\cenario 3 colorido\\sprite3.png",
+=======
+          "name": "arbusto",
+          "tags": "",
+          "texture": "..\\sprites\\cenario 3 colorido\\sprite22.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
           "behaviors": []
         },
         {
+          "height": 32,
+<<<<<<< HEAD
+          "name": "cipo",
+          "tags": "",
+          "texture": "..\\sprites\\cenario 3 colorido\\sprite15.png",
+=======
+          "name": "rocha",
+          "tags": "",
+          "texture": "..\\sprites\\cenario 3 colorido\\sprite3.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+<<<<<<< HEAD
+=======
           "height": 32,
           "name": "cipo",
           "tags": "",
@@ -6876,6 +7809,7 @@
           "behaviors": []
         },
         {
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "bold": true,
           "italic": false,
           "name": "cont",
@@ -6884,6 +7818,7 @@
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [
+<<<<<<< HEAD
             {
               "name": "cont_icon",
               "value": "0"
@@ -7496,10 +8431,25 @@
                   ]
                 }
               ]
+=======
+            {
+              "name": "cont_icon",
+              "value": "0"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
             }
-          ]
+          ],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "characterSize": 25,
+          "color": {
+            "b": 238,
+            "g": 238,
+            "r": 242
+          }
         },
         {
+<<<<<<< HEAD
           "name": "mod_esq",
           "tags": "",
           "type": "Sprite",
@@ -7518,19 +8468,276 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_dir.png",
+=======
+          "name": "urso",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "lives",
+              "value": "1"
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.11,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-andando_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 25.5,
+                        "y": 21
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 26.5,
+                        "y": 21
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-andando_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-andando_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.11,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite_parado1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite_parado2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite_parado3.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -7547,6 +8754,7 @@
           "behaviors": [],
           "animations": [
             {
+<<<<<<< HEAD
               "name": "",
               "useMultipleDirections": false,
               "directions": [
@@ -7557,18 +8765,31 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_esq.png",
+=======
+              "name": "atack1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.13,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 25.5,
+                        "y": 21
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 26.5,
+                        "y": 21
                       },
+<<<<<<< HEAD
                       "customCollisionMask": []
                     }
                   ]
@@ -7596,18 +8817,45 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\objetos para cenario\\Bonus_4_1.png",
+=======
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_2.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 25.5,
+                        "y": 21
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 26.5,
+                        "y": 21
                       },
+<<<<<<< HEAD
                       "customCollisionMask": []
                     }
                   ]
@@ -7661,21 +8909,187 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\Inimigo lobo\\walking_1.png",
+=======
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_3.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 25.5,
+                        "y": 21
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 26.5,
+                        "y": 21
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
                     },
                     {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-primeiro-ataque_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atack2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+<<<<<<< HEAD
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\Inimigo lobo\\walking_2.png",
                       "points": [],
@@ -7695,6 +9109,120 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\Inimigo lobo\\walking_3.png",
+=======
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-segundo-ataque_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "dano",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo URSO\\sprite-apanhando-e-escondendo_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 25.5,
+                        "y": 21
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 26.5,
+                        "y": 21
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5.5,
+                            "y": 6
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 5
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 7.5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mod_esq",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+<<<<<<< HEAD
+                      "image": "..\\sprites\\Inimigo lobo\\walking_4.png",
+=======
+                      "image": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_dir.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7708,6 +9236,232 @@
                         "y": 0
                       },
                       "customCollisionMask": []
+<<<<<<< HEAD
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\Inimigo lobo\\walking_5.png",
+=======
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mod_dir",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\modificadores de direção inimigos- icones tela\\mod_esq.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "coin",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+<<<<<<< HEAD
+              "name": "dano",
+=======
+              "name": "",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+<<<<<<< HEAD
+                      "image": "..\\sprites\\Inimigo lobo\\dano_1.png",
+=======
+                      "image": "..\\sprites\\objetos para cenario\\Bonus_4_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+<<<<<<< HEAD
+          "name": "cobra",
+=======
+          "name": "lobo",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "lives",
+              "value": "1"
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+<<<<<<< HEAD
+                      "image": "..\\sprites\\inimigo cobra\\walking_2.png",
+=======
+                      "image": "..\\sprites\\Inimigo lobo\\walking_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+<<<<<<< HEAD
+                      "image": "..\\sprites\\inimigo cobra\\walking_3.png",
+=======
+                      "image": "..\\sprites\\Inimigo lobo\\walking_2.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+<<<<<<< HEAD
+                      "image": "..\\sprites\\inimigo cobra\\walking_4.png",
+=======
+                      "image": "..\\sprites\\Inimigo lobo\\walking_3.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+<<<<<<< HEAD
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "dano",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\inimigo cobra\\dano_1.png",
+=======
                     },
                     {
                       "hasCustomCollisionMask": false,
@@ -7758,6 +9512,7 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\Inimigo lobo\\dano_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7779,7 +9534,11 @@
           ]
         },
         {
+<<<<<<< HEAD
+          "name": "coelho",
+=======
           "name": "cobra",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -7821,8 +9580,13 @@
                   "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
+<<<<<<< HEAD
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_1.png",
+=======
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\inimigo cobra\\walking_2.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7835,11 +9599,38 @@
                         "x": 0,
                         "y": 0
                       },
+<<<<<<< HEAD
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_2.png",
+=======
                       "customCollisionMask": []
                     },
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\inimigo cobra\\walking_3.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7852,11 +9643,38 @@
                         "x": 0,
                         "y": 0
                       },
+<<<<<<< HEAD
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_3.png",
+=======
                       "customCollisionMask": []
                     },
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\inimigo cobra\\walking_4.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7869,6 +9687,32 @@
                         "x": 0,
                         "y": 0
                       },
+<<<<<<< HEAD
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_4.png",
+=======
                       "customCollisionMask": []
                     }
                   ]
@@ -7951,6 +9795,7 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "..\\sprites\\inimigo rato\\sprite-movendo_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7986,115 +9831,11 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0.5,
-                            "y": 33
-                          },
-                          {
-                            "x": 31.5,
-                            "y": 34
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 4.5,
-                            "y": 58
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0.5,
-                            "y": 33
-                          },
-                          {
-                            "x": 31.5,
-                            "y": 34
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 4.5,
-                            "y": 58
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0.5,
-                            "y": 33
-                          },
-                          {
-                            "x": 31.5,
-                            "y": 34
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 4.5,
-                            "y": 58
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
+<<<<<<< HEAD
                       "image": "..\\sprites\\inimigo rato\\sprite-movendo_5.png",
+=======
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_2.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8130,7 +9871,11 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
+<<<<<<< HEAD
                       "image": "..\\sprites\\inimigo rato\\sprite-movendo_6.png",
+=======
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_3.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8163,6 +9908,7 @@
                           }
                         ]
                       ]
+<<<<<<< HEAD
                     }
                   ]
                 }
@@ -8218,6 +9964,12 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\objetos para cenario\\Portal3_1.png",
+=======
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_4.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8230,6 +9982,7 @@
                         "x": 0,
                         "y": 0
                       },
+<<<<<<< HEAD
                       "customCollisionMask": []
                     }
                   ]
@@ -8257,6 +10010,32 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Bonus\\Bonus_4_1.png",
+=======
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_5.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8269,6 +10048,7 @@
                         "x": 0,
                         "y": 0
                       },
+<<<<<<< HEAD
                       "customCollisionMask": []
                     }
                   ]
@@ -8296,6 +10076,32 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\objetos para cenario\\ForlornTempleCheckpointOff_8.png",
+=======
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "..\\sprites\\inimigo rato\\sprite-movendo_6.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8308,11 +10114,31 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 33
+                          },
+                          {
+                            "x": 31.5,
+                            "y": 34
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 4.5,
+                            "y": 58
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
               ]
+<<<<<<< HEAD
             }
           ]
         },
@@ -8352,8 +10178,11 @@
           "variables": [],
           "behaviors": [],
           "animations": [
+=======
+            },
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
             {
-              "name": "",
+              "name": "dano",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -8362,7 +10191,11 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
+<<<<<<< HEAD
                       "image": "..\\sprites\\objetos para cenario\\Bonus_life.png",
+=======
+                      "image": "..\\sprites\\inimigo rato\\sprite-se-pah-morreu.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8384,7 +10217,11 @@
           ]
         },
         {
+<<<<<<< HEAD
           "name": "coin_dica_1",
+=======
+          "name": "portal",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -8392,7 +10229,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "portal",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -8401,7 +10238,11 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
+<<<<<<< HEAD
                       "image": "..\\sprites\\objetos para cenario\\dicas.png",
+=======
+                      "image": "..\\sprites\\objetos para cenario\\Portal3_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8423,6 +10264,7 @@
           ]
         },
         {
+<<<<<<< HEAD
           "name": "AntiHeroi",
           "tags": "",
           "type": "Sprite",
@@ -8455,12 +10297,21 @@
               "yGrabOffset": 0
             }
           ],
+=======
+          "name": "coin_gui",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "animations": [
             {
               "name": "walking",
               "useMultipleDirections": false,
               "directions": [
                 {
+<<<<<<< HEAD
                   "looping": true,
                   "timeBetweenFrames": 0.1,
                   "sprites": [
@@ -8518,23 +10369,14 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\sprites\\anti_heroi\\idle_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
+=======
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "..\\sprites\\anti_heroi\\idle_5.png",
+                      "image": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Bonus\\Bonus_4_1.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8552,9 +10394,19 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Portal_porta",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
             {
-              "name": "dano",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -8563,6 +10415,84 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
+<<<<<<< HEAD
+                      "image": "..\\sprites\\anti_heroi\\idle_5.png",
+=======
+                      "image": "..\\sprites\\objetos para cenario\\ForlornTempleCheckpointOff_8.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+<<<<<<< HEAD
+            },
+            {
+              "name": "dano",
+=======
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "Portal_chao",
+          "tags": "",
+          "texture": "..\\sprites\\objetos para cenario\\ForlornTemple_16_CheckpointTileOff.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 33,
+          "name": "icon_life",
+          "tags": "",
+          "texture": "..\\sprites\\objetos para cenario\\life.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 37,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "Bonus_life",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+<<<<<<< HEAD
                       "image": "..\\sprites\\anti_heroi\\dano_1.png",
                       "points": [],
                       "originPoint": {
@@ -8603,6 +10533,9 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "CampoText-1.png",
+=======
+                      "image": "..\\sprites\\objetos para cenario\\Bonus_life.png",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8624,6 +10557,7 @@
           ]
         },
         {
+<<<<<<< HEAD
           "bold": true,
           "italic": false,
           "name": "dicaText",
@@ -8644,6 +10578,9 @@
         },
         {
           "name": "coin_dica_2",
+=======
+          "name": "coin_dica_1",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -8682,6 +10619,7 @@
           ]
         },
         {
+<<<<<<< HEAD
           "height": 32,
           "name": "chaoMovel",
           "tags": "",
@@ -8727,6 +10665,20 @@
                 ""
               ],
               "subInstructions": []
+=======
+          "name": "AntiHeroi",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "0"
+            },
+            {
+              "name": "lives",
+              "value": "1"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
             }
           ],
           "events": []
@@ -8737,6 +10689,7 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
+<<<<<<< HEAD
               "type": {
                 "inverted": false,
                 "value": "DepartScene"
@@ -8950,6 +10903,22 @@
                 ""
               ],
               "subInstructions": []
+=======
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1000,
+              "canGrabPlatforms": false,
+              "deceleration": 1000,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 500,
+              "maxSpeed": 100,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
             }
           ],
           "events": []
@@ -8960,6 +10929,7 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
+<<<<<<< HEAD
               "type": {
                 "inverted": false,
                 "value": "KeyPressed"
@@ -9104,6 +11074,195 @@
           ],
           "events": []
         },
+=======
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\anti_heroi\\idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\anti_heroi\\idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\anti_heroi\\idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\anti_heroi\\idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\anti_heroi\\idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "dano",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\anti_heroi\\dano_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CampoText",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "CampoText-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "dicaText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Bem-vindo ao Med Milenium, saque a sua espada para se defender.. \n",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        }
+      ],
+      "events": [
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
         {
           "disabled": false,
           "folded": false,
@@ -9180,6 +11339,7 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "Montre"
               },
               "parameters": [
@@ -9206,6 +11366,14 @@
               },
               "parameters": [
                 "Portal_chao",
+=======
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "player",
+                "no",
+                "\"Game\"",
                 ""
               ],
               "subInstructions": []
@@ -9221,11 +11389,80 @@
             {
               "type": {
                 "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "..\\audios\\tema.ogg",
+                "yes",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "CampoText"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "dicaText"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "item",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Player",
-                "portal",
+                "player",
+                "coin_dica_1",
                 "",
                 "",
                 ""
@@ -9237,12 +11474,215 @@
             {
               "type": {
                 "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "coin_dica_1",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "..\\audios\\coin_efeito.wav",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "CampoText",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "dicaText",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "coin",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "coin",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "..\\audios\\coin_efeito.wav",
+                "no",
+                "",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "cont",
+                "cont_icon",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "cont_icon",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "cont",
+                "=",
+                "ToString(GlobalVariable(cont_icon))"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+<<<<<<< HEAD
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "portal",
+                "",
+                "",
+                ""
+=======
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "cont",
+                "cont_icon",
+                "<",
+                "10"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+<<<<<<< HEAD
                 "value": "Scene"
               },
               "parameters": [
                 "",
                 "\"GameEnd\"",
                 ""
+=======
+                "value": "Cache"
+              },
+              "parameters": [
+                "portal"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Portal_porta"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Portal_chao"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -9472,6 +11912,7 @@
         {
           "disabled": false,
           "folded": false,
+<<<<<<< HEAD
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -9487,18 +11928,30 @@
         {
           "disabled": false,
           "folded": false,
+=======
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "ChangeScale"
               },
               "parameters": [
                 "joia",
                 "=",
                 "0.9"
+=======
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "cont",
+                "cont_icon",
+                "=",
+                "10"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -9514,12 +11967,42 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "ChangeScale"
               },
               "parameters": [
                 "joia",
                 "=",
                 "1"
+=======
+                "value": "Montre"
+              },
+              "parameters": [
+                "portal",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Portal_porta",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Portal_chao",
+                ""
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -9797,6 +12280,7 @@
           "initialVariables": []
         },
         {
+<<<<<<< HEAD
           "angle": 0,
           "customSize": true,
           "height": 288,
@@ -9855,6 +12339,24 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "player"
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "HudEvents"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
         }
       ],
       "objects": [
@@ -9898,6 +12400,7 @@
           ]
         },
         {
+<<<<<<< HEAD
           "name": "Puzlle_tela",
           "tags": "",
           "type": "Sprite",
@@ -9935,6 +12438,12 @@
               ]
             }
           ]
+=======
+          "name": "BackGround",
+          "visibility": false,
+          "cameras": [],
+          "effects": []
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
         },
         {
           "name": "Pazzle1",
@@ -10054,6 +12563,7 @@
           ]
         },
         {
+<<<<<<< HEAD
           "name": "Pazzle4",
           "tags": "",
           "type": "Sprite",
@@ -10330,12 +12840,85 @@
           "bold": false,
           "italic": true,
           "name": "TextPuzzle",
+=======
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    },
+    {
+      "b": 3,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Boss",
+      "name": "Boss",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 36,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 65,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.579
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "text",
+          "width": 0,
+          "x": 344,
+          "y": 243,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "joia",
+          "width": 0,
+          "x": 324,
+          "y": 293,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "text",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "behaviors": [],
+<<<<<<< HEAD
           "string": "               Parabéns\nMissão concluida com sucesso\n          Portal liberado!!!",
           "font": "..\\fonts\\panzer_dragoon\\hoffmann.TTF",
           "characterSize": 30,
@@ -10590,6 +13173,53 @@
                 ""
               ],
               "subInstructions": []
+=======
+          "string": "THE END",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 252,
+            "g": 252,
+            "r": 252
+          }
+        },
+        {
+          "name": "joia",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\sprites\\objetos para cenario\\PNG-moedas-icon\\Bonus\\Bonus_2_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
             }
           ],
           "events": []
@@ -10631,20 +13261,37 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "conditions": [],
+          "actions": [
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "VarGlobal"
               },
               "parameters": [
                 "cont_icon_tela",
                 ">=",
                 "8"
+=======
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "joia",
+                "=",
+                "0.9"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
           "actions": [
             {
               "type": {
@@ -10652,8 +13299,13 @@
                 "value": "Delete"
               },
               "parameters": [
+<<<<<<< HEAD
                 "Pazzle7",
                 ""
+=======
+                "joia",
+                "=",
+                "1"
               ],
               "subInstructions": []
             }
@@ -10668,12 +13320,214 @@
             {
               "type": {
                 "inverted": false,
+                "value": "SourisBouton"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "joia",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Quit"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Puzzle",
+      "name": "Puzzle",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
+    }
+  ],
+  "externalEvents": [
+    {
+      "associatedLayout": "Game",
+      "lastChangeTimeStamp": 0,
+      "name": "inimigo",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "mod_esq"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "mod_dir"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "CONTROLES",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+<<<<<<< HEAD
                 "value": "VarGlobal"
               },
               "parameters": [
                 "cont_icon_tela",
                 ">=",
                 "9"
+=======
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Enemy",
+                "mod_esq",
+                "",
+                "",
+                ""
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -10682,11 +13536,21 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "Delete"
               },
               "parameters": [
                 "Pazzle8",
                 ""
+=======
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Enemy",
+                "direction",
+                "=",
+                "0"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -10701,6 +13565,7 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "VarGlobal"
               },
               "parameters": [
@@ -10996,11 +13861,17 @@
             {
               "type": {
                 "inverted": false,
+=======
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                 "value": "CollisionNP"
               },
               "parameters": [
                 "Enemy",
+<<<<<<< HEAD
                 "mod_esq",
+=======
+                "mod_dir",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                 "",
                 "",
                 ""
@@ -11018,7 +13889,11 @@
                 "Enemy",
                 "direction",
                 "=",
+<<<<<<< HEAD
                 "0"
+=======
+                "1"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -11033,6 +13908,7 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "CollisionNP"
               },
               "parameters": [
@@ -11041,6 +13917,15 @@
                 "",
                 "",
                 ""
+=======
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Enemy",
+                "direction",
+                "=",
+                "1"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -11049,6 +13934,7 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "ModVarObjet"
               },
               "parameters": [
@@ -11056,6 +13942,24 @@
                 "direction",
                 "=",
                 "1"
+=======
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Enemy",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Enemy",
+                "no"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -11076,7 +13980,11 @@
                 "Enemy",
                 "direction",
                 "=",
+<<<<<<< HEAD
                 "1"
+=======
+                "0"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -11085,7 +13993,11 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "PlatformBehavior::SimulateLeftKey"
+=======
+                "value": "PlatformBehavior::SimulateRightKey"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               },
               "parameters": [
                 "Enemy",
@@ -11100,7 +14012,11 @@
               },
               "parameters": [
                 "Enemy",
+<<<<<<< HEAD
                 "no"
+=======
+                "yes"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -11110,6 +14026,7 @@
         {
           "disabled": false,
           "folded": false,
+<<<<<<< HEAD
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -11151,10 +14068,7 @@
             }
           ],
           "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
+=======
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -11166,6 +14080,58 @@
           },
           "comment": "ANTI HEROI",
           "comment2": ""
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+        },
+        {
+          "disabled": false,
+          "folded": false,
+<<<<<<< HEAD
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "ANTI HEROI",
+          "comment2": ""
+=======
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "AntiHeroi",
+                "mod_esq",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "AntiHeroi",
+                "direction",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
         },
         {
           "disabled": false,
@@ -11179,6 +14145,7 @@
               },
               "parameters": [
                 "AntiHeroi",
+<<<<<<< HEAD
                 "mod_esq",
                 "",
                 "",
@@ -11216,6 +14183,8 @@
               },
               "parameters": [
                 "AntiHeroi",
+=======
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
                 "mod_dir",
                 "",
                 "",
@@ -11634,6 +14603,29 @@
                 "\"jump\""
               ],
               "subInstructions": []
+<<<<<<< HEAD
+=======
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "CampoText"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "dicaText"
+              ],
+              "subInstructions": []
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
             }
           ],
           "events": []
@@ -12319,6 +15311,7 @@
               ],
               "subInstructions": []
             },
+<<<<<<< HEAD
             {
               "type": {
                 "inverted": false,
@@ -12374,13 +15367,27 @@
                 "",
                 "",
                 ""
+=======
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SetCanJump"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "PlatformBehavior::IsOnFloor"
+=======
+                "value": "PlatformBehavior::SimulateJumpKey"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               },
               "parameters": [
                 "player",
@@ -12391,12 +15398,23 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "Timer"
               },
               "parameters": [
                 "",
                 "1.5",
                 "\"hit_time\""
+=======
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "..\\audios\\enemy.wav",
+                "no",
+                "",
+                ""
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -12405,6 +15423,7 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "ModVarObjet"
               },
               "parameters": [
@@ -12412,15 +15431,102 @@
                 "Life",
                 "-",
                 "1"
+=======
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "player",
+                "Enemy",
+                "",
+                "",
+                ""
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "SetAnimationName"
               },
               "parameters": [
+                "player",
+                "\"hit\""
+=======
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+<<<<<<< HEAD
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+=======
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "1.5",
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+                "\"hit_time\""
+              ],
+              "subInstructions": []
+            }
+          ],
+<<<<<<< HEAD
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+=======
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+              },
+              "parameters": [
+                "player",
+                "Life",
+<<<<<<< HEAD
+                "<=",
+                "0"
+=======
+                "-",
+                "1"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+<<<<<<< HEAD
+                "",
+                "\"GameEnd\"",
+                ""
+=======
                 "player",
                 "\"hit\""
               ],
@@ -12434,6 +15540,7 @@
               "parameters": [
                 "",
                 "\"hit_time\""
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -12448,41 +15555,7 @@
             {
               "type": {
                 "inverted": false,
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "player",
-                "Life",
-                "<=",
-                "0"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"GameEnd\"",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
+<<<<<<< HEAD
                 "value": "CollisionNP"
               },
               "parameters": [
@@ -12491,6 +15564,15 @@
                 "",
                 "",
                 ""
+=======
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "player",
+                "Life",
+                "<=",
+                "0"
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
@@ -12499,6 +15581,7 @@
             {
               "type": {
                 "inverted": false,
+<<<<<<< HEAD
                 "value": "ModVarObjet"
               },
               "parameters": [
@@ -12506,6 +15589,14 @@
                 "Life",
                 "+",
                 "1"
+=======
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Boss\"",
+                ""
+>>>>>>> 19864a51f31fb7cdac8bb566edab7b3a6882903d
               ],
               "subInstructions": []
             }
